@@ -2,7 +2,7 @@
 
 #include <algorithm>
 
-using namespace std::experimental;
+using namespace std;
 
 namespace
 {

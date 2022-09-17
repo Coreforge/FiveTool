@@ -10,8 +10,9 @@
 #include <memory>
 #include <filesystem>
 #include "zlib/zlib.h"
+#include <string>
 
-using namespace std::experimental;
+using namespace std;
 
 bool checkZlibResult(int result);
 void displayError(const std::string& error);
